@@ -1,0 +1,25 @@
+{
+  "name": "sorting_visualizer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.7.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/open-sans": "^5.0.5",
+    "@fontsource/raleway": "^5.0.5",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "framer-motion": "^10.12.18",
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
